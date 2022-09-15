@@ -1,0 +1,2344 @@
+﻿{
+    "vantagens": [
+        {
+            "nome_pt_br": "Abafador de Mana",
+            "nome_en_us": "Mana Damper",
+            "pag_pt_br": "34",
+            "pag_en_us": "67",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "10/nível"
+        },
+        {
+            "nome_pt_br": "Abascanto",
+            "nome_en_us": "Magic Resistance",
+            "pag_pt_br": "34",
+            "pag_en_us": "67",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Abençoado",
+            "nome_en_us": "Blessed",
+            "pag_pt_br": "35",
+            "pag_en_us": "40",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "10+"
+        },
+        {
+            "nome_pt_br": "Acessórios",
+            "nome_en_us": "Accessory",
+            "pag_pt_br": "100",
+            "pag_en_us": "100",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "1"
+        },
+        {
+            "nome_pt_br": "Adaptabilidade Cultural",
+            "nome_en_us": "Cultural Adaptability",
+            "pag_pt_br": "35",
+            "pag_en_us": "46",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Adaptação ao Terreno",
+            "nome_en_us": "Terrain Adaptation",
+            "pag_pt_br": "35",
+            "pag_en_us": "93",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "0 ou 5"
+        },
+        {
+            "nome_pt_br": "Aderência",
+            "nome_en_us": "Clinging",
+            "pag_pt_br": "35",
+            "pag_en_us": "43",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "20"
+        },
+        {
+            "nome_pt_br": "Agente Cativante",
+            "nome_en_us": "Smooth Operator",
+            "pag_pt_br": "90",
+            "pag_en_us": "91",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "15/nível"
+        },
+        {
+            "nome_pt_br": "Aliados",
+            "nome_en_us": "Allies",
+            "pag_pt_br": "35",
+            "pag_en_us": "36",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Ambidestria",
+            "nome_en_us": "Ambidexterity",
+            "pag_pt_br": "38",
+            "pag_en_us": "39",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Ampliador de Mana",
+            "nome_en_us": "Mana Enhancer",
+            "pag_pt_br": "38",
+            "pag_en_us": "68",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "50/nível"
+        },
+        {
+            "nome_pt_br": "Anfíbio",
+            "nome_en_us": "Amphibious",
+            "pag_pt_br": "38",
+            "pag_en_us": "40",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Antecedentes Incomuns",
+            "nome_en_us": "Unusual Background",
+            "pag_pt_br": "39",
+            "pag_en_us": "96",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Apagado",
+            "nome_en_us": "Zeroed",
+            "pag_pt_br": "39",
+            "pag_en_us": "100",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Aparência",
+            "nome_en_us": "Appearance",
+            "pag_pt_br": "21",
+            "pag_en_us": "21",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Apetrechos",
+            "nome_en_us": "Gizmos",
+            "pag_pt_br": "39",
+            "pag_en_us": "57",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5/apetrecho"
+        },
+        {
+            "nome_pt_br": "Aptidão Mágica",
+            "nome_en_us": "Magery",
+            "pag_pt_br": "40",
+            "pag_en_us": "66",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "5 + 10/nível"
+        },
+        {
+            "nome_pt_br": "Arrebatador",
+            "nome_en_us": "Snatcher",
+            "pag_pt_br": "40",
+            "pag_en_us": "86",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "80"
+        },
+        {
+            "nome_pt_br": "Arremedo",
+            "nome_en_us": "Mimicry",
+            "pag_pt_br": "41",
+            "pag_en_us": "68",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Artífice",
+            "nome_en_us": "Artificer",
+            "pag_pt_br": "90",
+            "pag_en_us": "90",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "10/nível"
+        },
+        {
+            "nome_pt_br": "Artista Talentoso",
+            "nome_en_us": "Gifted Artist",
+            "pag_pt_br": "90",
+            "pag_en_us": "90",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Ataque Adicional",
+            "nome_en_us": "Extra Attack",
+            "pag_pt_br": "42",
+            "pag_en_us": "53",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "25/nível"
+        },
+        {
+            "nome_pt_br": "Ataque Constritivo",
+            "nome_en_us": "Constriction Attack",
+            "pag_pt_br": "42",
+            "pag_en_us": "43",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Ataque Inato",
+            "nome_en_us": "Innate Attack",
+            "pag_pt_br": "42",
+            "pag_en_us": "61",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Atirador",
+            "nome_en_us": "Gunslinger",
+            "pag_pt_br": "43",
+            "pag_en_us": "58",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "25"
+        },
+        {
+            "nome_pt_br": "Atribulação",
+            "nome_en_us": "Affliction",
+            "pag_pt_br": "43",
+            "pag_en_us": "35",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "10/nível"
+        },
+        {
+            "nome_pt_br": "Audição Aguçada",
+            "nome_en_us": "Acute Hearing",
+            "pag_pt_br": "88",
+            "pag_en_us": "35",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Audição Discriminatória",
+            "nome_en_us": "Discriminatory Hearing",
+            "pag_pt_br": "44",
+            "pag_en_us": "49",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Audição Parabólica",
+            "nome_en_us": "Parabolic Hearing",
+            "pag_pt_br": "44",
+            "pag_en_us": "72",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "4/nível"
+        },
+        {
+            "nome_pt_br": "Audição Subsônica",
+            "nome_en_us": "Subsonic Hearing",
+            "pag_pt_br": "44",
+            "pag_en_us": "89",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "0 ou 5"
+        },
+        {
+            "nome_pt_br": "Autotranse",
+            "nome_en_us": "Autotrance",
+            "pag_pt_br": "100",
+            "pag_en_us": "101",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "1"
+        },
+        {
+            "nome_pt_br": "Boa Forma",
+            "nome_en_us": "Fit",
+            "pag_pt_br": "45",
+            "pag_en_us": "55",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Boca Adicional",
+            "nome_en_us": "Extra Mouth",
+            "pag_pt_br": "45",
+            "pag_en_us": "55",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5/boca"
+        },
+        {
+            "nome_pt_br": "Bom Senso",
+            "nome_en_us": "Common Sense",
+            "pag_pt_br": "45",
+            "pag_en_us": "43",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Braços Adicionais",
+            "nome_en_us": "Extra Arms",
+            "pag_pt_br": "45",
+            "pag_en_us": "53",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Cabeça Adicional",
+            "nome_en_us": "Extra Head",
+            "pag_pt_br": "46",
+            "pag_en_us": "54",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "15/cabeça"
+        },
+        {
+            "nome_pt_br": "Cálculos Instantâneos",
+            "nome_en_us": "Lightning Calculator",
+            "pag_pt_br": "46",
+            "pag_en_us": "66",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "2"
+        },
+        {
+            "nome_pt_br": "Camaleão",
+            "nome_en_us": "Chameleon",
+            "pag_pt_br": "46",
+            "pag_en_us": "41",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Camaleão Social",
+            "nome_en_us": "Social Chameleon",
+            "pag_pt_br": "46",
+            "pag_en_us": "86",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Caminhar no Ar",
+            "nome_en_us": "Walk on Air",
+            "pag_pt_br": "46",
+            "pag_en_us": "97",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "20"
+        },
+        {
+            "nome_pt_br": "Caminhar sobre Líquidos",
+            "nome_en_us": "Walk on Liquid",
+            "pag_pt_br": "46",
+            "pag_en_us": "97",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Canalização",
+            "nome_en_us": "Channeling",
+            "pag_pt_br": "46",
+            "pag_en_us": "41",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Carga Útil",
+            "nome_en_us": "Payload",
+            "pag_pt_br": "47",
+            "pag_en_us": "74",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "1/nível"
+        },
+        {
+            "nome_pt_br": "Carisma",
+            "nome_en_us": "Charisma",
+            "pag_pt_br": "47",
+            "pag_en_us": "41",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Cibernética",
+            "nome_en_us": "Cybernetics",
+            "pag_pt_br": "47",
+            "pag_en_us": "46",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Clarisenciência",
+            "nome_en_us": "Clairsentience",
+            "pag_pt_br": "47",
+            "pag_en_us": "42",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "50"
+        },
+        {
+            "nome_pt_br": "Clericato",
+            "nome_en_us": "Clerical Investment",
+            "pag_pt_br": "47",
+            "pag_en_us": "43",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Companheiro Animal",
+            "nome_en_us": "Animal Friend",
+            "pag_pt_br": "90",
+            "pag_en_us": "90",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Consumo Reduzido",
+            "nome_en_us": "Reduced Consumption",
+            "pag_pt_br": "48",
+            "pag_en_us": "80",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Contatos",
+            "nome_en_us": "Contacts",
+            "pag_pt_br": "48",
+            "pag_en_us": "44",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Controle da Mente",
+            "nome_en_us": "Mind Control",
+            "pag_pt_br": "49",
+            "pag_en_us": "68",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "50"
+        },
+        {
+            "nome_pt_br": "Controle do Metabolismo",
+            "nome_en_us": "Metabolism Control",
+            "pag_pt_br": "50",
+            "pag_en_us": "68",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Controle Térmico",
+            "nome_en_us": "Temperature Control",
+            "pag_pt_br": "50",
+            "pag_en_us": "92",
+            "tipo_principal": "2/3",
+            "tipo_secundario": "1",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Crescimento",
+            "nome_en_us": "Growth",
+            "pag_pt_br": "50",
+            "pag_en_us": "58",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "10/nível"
+        },
+        {
+            "nome_pt_br": "Cronolocalização",
+            "nome_en_us": "Chronolocation",
+            "pag_pt_br": "74",
+            "pag_en_us": "35",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Cura",
+            "nome_en_us": "Healing",
+            "pag_pt_br": "51",
+            "pag_en_us": "59",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "30"
+        },
+        {
+            "nome_pt_br": "Curandeiro",
+            "nome_en_us": "Healer",
+            "pag_pt_br": "90",
+            "pag_en_us": "90",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "10/nível"
+        },
+        {
+            "nome_pt_br": "Dedos Verdes",
+            "nome_en_us": "Green Thumb",
+            "pag_pt_br": "90",
+            "pag_en_us": "90",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Defesas Ampliadas",
+            "nome_en_us": "Enhanced Defenses",
+            "pag_pt_br": "51",
+            "pag_en_us": "51",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Dentes",
+            "nome_en_us": "Teeth",
+            "pag_pt_br": "52",
+            "pag_en_us": "91",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "0, 1, ou 2"
+        },
+        {
+            "nome_pt_br": "Desenvolvedor",
+            "nome_en_us": "Gadgeteer",
+            "pag_pt_br": "52",
+            "pag_en_us": "56",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "25 ou 50"
+        },
+        {
+            "nome_pt_br": "Deslocamento Ampliado",
+            "nome_en_us": "Enhanced Move",
+            "pag_pt_br": "52",
+            "pag_en_us": "52",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "20/nível"
+        },
+        {
+            "nome_pt_br": "Destemor",
+            "nome_en_us": "Fearlessness",
+            "pag_pt_br": "53",
+            "pag_en_us": "55",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Destino",
+            "nome_en_us": "Destiny",
+            "pag_pt_br": "53",
+            "pag_en_us": "48",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Destreza Manual Elevada",
+            "nome_en_us": "High Manual Dexterity",
+            "pag_pt_br": "53",
+            "pag_en_us": "59",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Detectar",
+            "nome_en_us": "Detect",
+            "pag_pt_br": "53",
+            "pag_en_us": "48",
+            "tipo_principal": "2/3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Difícil de Subjugar",
+            "nome_en_us": "Hard to Subdue",
+            "pag_pt_br": "53",
+            "pag_en_us": "59",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Digestão Universal",
+            "nome_en_us": "Universal Digestion",
+            "pag_pt_br": "54",
+            "pag_en_us": "95",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Dobra",
+            "nome_en_us": "Warp",
+            "pag_pt_br": "54",
+            "pag_en_us": "97",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "100"
+        },
+        {
+            "nome_pt_br": "Dominação",
+            "nome_en_us": "Dominance",
+            "pag_pt_br": "55",
+            "pag_en_us": "50",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "20"
+        },
+        {
+            "nome_pt_br": "Dorminhoco",
+            "nome_en_us": "Deep Sleeper",
+            "pag_pt_br": "100",
+            "pag_en_us": "101",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "1"
+        },
+        {
+            "nome_pt_br": "Duplicação",
+            "nome_en_us": "Duplication",
+            "pag_pt_br": "55",
+            "pag_en_us": "50",
+            "tipo_principal": "2/3",
+            "tipo_secundario": "1",
+            "custo": "35/cópia"
+        },
+        {
+            "nome_pt_br": "Durabilidade Sobrenatural",
+            "nome_en_us": "Supernatural Durability",
+            "pag_pt_br": "56",
+            "pag_en_us": "89",
+            "tipo_principal": "3",
+            "tipo_secundario": "5",
+            "custo": "150"
+        },
+        {
+            "nome_pt_br": "Duro de Matar",
+            "nome_en_us": "Hard to Kill",
+            "pag_pt_br": "56",
+            "pag_en_us": "58",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "DX Braçal",
+            "nome_en_us": "Arm DX",
+            "pag_pt_br": "56",
+            "pag_en_us": "40",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "12 ou 16/nível"
+        },
+        {
+            "nome_pt_br": "Elasticidade",
+            "nome_en_us": "Stretching",
+            "pag_pt_br": "56",
+            "pag_en_us": "88",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "6/nível"
+        },
+        {
+            "nome_pt_br": "Elo Mental",
+            "nome_en_us": "Mindlink",
+            "pag_pt_br": "57",
+            "pag_en_us": "70",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Empatia",
+            "nome_en_us": "Empathy",
+            "pag_pt_br": "57",
+            "pag_en_us": "51",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Empatia com Animais",
+            "nome_en_us": "Animal Empathy",
+            "pag_pt_br": "57",
+            "pag_en_us": "40",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Empatia com Espíritos",
+            "nome_en_us": "Spirit Empathy",
+            "pag_pt_br": "57",
+            "pag_en_us": "88",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Empatia com Plantas",
+            "nome_en_us": "Plant Empathy",
+            "pag_pt_br": "57",
+            "pag_en_us": "75",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Encolhimento",
+            "nome_en_us": "Shrinking",
+            "pag_pt_br": "57",
+            "pag_en_us": "85",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Equilíbrio Perfeito",
+            "nome_en_us": "Perfect Balance",
+            "pag_pt_br": "58",
+            "pag_en_us": "74",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Equipamento Característico",
+            "nome_en_us": "Signature Gear",
+            "pag_pt_br": "58",
+            "pag_en_us": "85",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Escavação",
+            "nome_en_us": "Tunneling",
+            "pag_pt_br": "58",
+            "pag_en_us": "94",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "30 + 5/nível"
+        },
+        {
+            "nome_pt_br": "Escorregadio",
+            "nome_en_us": "Slippery",
+            "pag_pt_br": "58",
+            "pag_en_us": "85",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Escudo Mental",
+            "nome_en_us": "Mind Shield",
+            "pag_pt_br": "58",
+            "pag_en_us": "70",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "4/nível"
+        },
+        {
+            "nome_pt_br": "Espinhos",
+            "nome_en_us": "Spines",
+            "pag_pt_br": "58",
+            "pag_en_us": "88",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "1 a 3"
+        },
+        {
+            "nome_pt_br": "Estabilidade no Emprego",
+            "nome_en_us": "Tenure",
+            "pag_pt_br": "59",
+            "pag_en_us": "93",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Estática Psíquica",
+            "nome_en_us": "Psi Static",
+            "pag_pt_br": "59",
+            "pag_en_us": "78",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "30"
+        },
+        {
+            "nome_pt_br": "Estilo",
+            "nome_en_us": "Shtick",
+            "pag_pt_br": "101",
+            "pag_en_us": "101",
+            "tipo_principal": "2/3",
+            "tipo_secundario": "-",
+            "custo": "1"
+        },
+        {
+            "nome_pt_br": "Expectativa de Vida Ampliada",
+            "nome_en_us": "Extended Lifespan",
+            "pag_pt_br": "59",
+            "pag_en_us": "53",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Experiência-G",
+            "nome_en_us": "G-Experience",
+            "pag_pt_br": "59",
+            "pag_en_us": "57",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "1 a 10"
+        },
+        {
+            "nome_pt_br": "Explorador",
+            "nome_en_us": "Outdoorsman",
+            "pag_pt_br": "91",
+            "pag_en_us": "91",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "10/nível"
+        },
+        {
+            "nome_pt_br": "Facilidade para Idiomas",
+            "nome_en_us": "Language Talent",
+            "pag_pt_br": "59",
+            "pag_en_us": "65",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Fala Subaquática",
+            "nome_en_us": "Speak Underwater",
+            "pag_pt_br": "59",
+            "pag_en_us": "87",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Fala Subsônica",
+            "nome_en_us": "Subsonic Speech",
+            "pag_pt_br": "59",
+            "pag_en_us": "89",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "0 ou 10"
+        },
+        {
+            "nome_pt_br": "Fala Ultrassônica",
+            "nome_en_us": "Ultrasonic Speech",
+            "pag_pt_br": "59",
+            "pag_en_us": "94",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "0 ou 10"
+        },
+        {
+            "nome_pt_br": "Falar com Animais",
+            "nome_en_us": "Speak With Animals",
+            "pag_pt_br": "60",
+            "pag_en_us": "87",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "25"
+        },
+        {
+            "nome_pt_br": "Falar com Plantas",
+            "nome_en_us": "Speak With Plants",
+            "pag_pt_br": "60",
+            "pag_en_us": "87",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Familiaridade Cultural",
+            "nome_en_us": "Cultural Familiarity",
+            "pag_pt_br": "23",
+            "pag_en_us": "23",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "1 ou 2/cultura"
+        },
+        {
+            "nome_pt_br": "Favor",
+            "nome_en_us": "Favor",
+            "pag_pt_br": "60",
+            "pag_en_us": "55",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Fé Verdadeira",
+            "nome_en_us": "True Faith",
+            "pag_pt_br": "60",
+            "pag_en_us": "94",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Fleuma",
+            "nome_en_us": "Unfazeable",
+            "pag_pt_br": "60",
+            "pag_en_us": "95",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Flexibilidade",
+            "nome_en_us": "Flexibility",
+            "pag_pt_br": "60",
+            "pag_en_us": "56",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Forma Alternativa",
+            "nome_en_us": "Alternate Form",
+            "pag_pt_br": "71",
+            "pag_en_us": "83",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Forma de Sombras",
+            "nome_en_us": "Shadow Form",
+            "pag_pt_br": "61",
+            "pag_en_us": "83",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "50"
+        },
+        {
+            "nome_pt_br": "Garras",
+            "nome_en_us": "Claws",
+            "pag_pt_br": "61",
+            "pag_en_us": "42",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Golpeadores",
+            "nome_en_us": "Striker",
+            "pag_pt_br": "62",
+            "pag_en_us": "88",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5–8"
+        },
+        {
+            "nome_pt_br": "Grupo de Contato",
+            "nome_en_us": "Contact Group",
+            "pag_pt_br": "62",
+            "pag_en_us": "44",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Habilidade Matemática",
+            "nome_en_us": "Mathematical Ability",
+            "pag_pt_br": "91",
+            "pag_en_us": "90",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "10/nível"
+        },
+        {
+            "nome_pt_br": "Habilidade Musical",
+            "nome_en_us": "Musical Ability",
+            "pag_pt_br": "91",
+            "pag_en_us": "91",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Habilidades Modulares",
+            "nome_en_us": "Modular Abilities",
+            "pag_pt_br": "63",
+            "pag_en_us": "71",
+            "tipo_principal": "2/3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Hermafromorfo",
+            "nome_en_us": "Hermaphromorph",
+            "pag_pt_br": "63",
+            "pag_en_us": "59",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Hierarquia",
+            "nome_en_us": "Rank",
+            "pag_pt_br": "29",
+            "pag_en_us": "29",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5 ou 10/nível"
+        },
+        {
+            "nome_pt_br": "Hierarquia Administrativa",
+            "nome_en_us": "Administrative Rank",
+            "pag_pt_br": "30",
+            "pag_en_us": "30",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5 ou 10/nível"
+        },
+        {
+            "nome_pt_br": "Hierarquia Comercial",
+            "nome_en_us": "Merchant Rank",
+            "pag_pt_br": "30",
+            "pag_en_us": "30",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5 ou 10/nível"
+        },
+        {
+            "nome_pt_br": "Hierarquia Honorária",
+            "nome_en_us": "Courtesy Rank",
+            "pag_pt_br": "29",
+            "pag_en_us": "29",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "1/nível"
+        },
+        {
+            "nome_pt_br": "Hierarquia Militar",
+            "nome_en_us": "Military Rank",
+            "pag_pt_br": "30",
+            "pag_en_us": "30",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5 ou 10/nível"
+        },
+        {
+            "nome_pt_br": "Hierarquia Policial",
+            "nome_en_us": "Police Rank",
+            "pag_pt_br": "30",
+            "pag_en_us": "30",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5 ou 10/nível"
+        },
+        {
+            "nome_pt_br": "Hierarquia Religiosa",
+            "nome_en_us": "Religious Rank",
+            "pag_pt_br": "30",
+            "pag_en_us": "30",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5 ou 10/nível"
+        },
+        {
+            "nome_pt_br": "Hipoalgia (Alto Limiar de Dor)",
+            "nome_en_us": "High Pain Threshold",
+            "pag_pt_br": "63",
+            "pag_en_us": "59",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Idade Imutável",
+            "nome_en_us": "Unaging",
+            "pag_pt_br": "63",
+            "pag_en_us": "95",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Identidade Alternativa",
+            "nome_en_us": "Alternate Identity",
+            "pag_pt_br": "63",
+            "pag_en_us": "39",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5 ou 15"
+        },
+        {
+            "nome_pt_br": "Iluminado",
+            "nome_en_us": "Illuminated",
+            "pag_pt_br": "64",
+            "pag_en_us": "60",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Impossível de Matar",
+            "nome_en_us": "Unkillable",
+            "pag_pt_br": "64",
+            "pag_en_us": "95",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "50 a 150"
+        },
+        {
+            "nome_pt_br": "Imunidade Legal",
+            "nome_en_us": "Legal Immunity",
+            "pag_pt_br": "64",
+            "pag_en_us": "65",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5 a 20"
+        },
+        {
+            "nome_pt_br": "Indomável",
+            "nome_en_us": "Indomitable",
+            "pag_pt_br": "65",
+            "pag_en_us": "60",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Inércia Temporal",
+            "nome_en_us": "Temporal Inertia",
+            "pag_pt_br": "65",
+            "pag_en_us": "93",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Infravisão",
+            "nome_en_us": "Infravision",
+            "pag_pt_br": "65",
+            "pag_en_us": "60",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "0 ou 10"
+        },
+        {
+            "nome_pt_br": "Insubstancialidade",
+            "nome_en_us": "Insubstantiality",
+            "pag_pt_br": "65",
+            "pag_en_us": "62",
+            "tipo_principal": "2/3",
+            "tipo_secundario": "1",
+            "custo": "80"
+        },
+        {
+            "nome_pt_br": "Interposição",
+            "nome_en_us": "Permeation",
+            "pag_pt_br": "66",
+            "pag_en_us": "75",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Intuição",
+            "nome_en_us": "Intuition",
+            "pag_pt_br": "67",
+            "pag_en_us": "63",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Investidura de Poder",
+            "nome_en_us": "Power Investiture",
+            "pag_pt_br": "67",
+            "pag_en_us": "77",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "10/nível"
+        },
+        {
+            "nome_pt_br": "Invisibilidade",
+            "nome_en_us": "Invisibility",
+            "pag_pt_br": "67",
+            "pag_en_us": "63",
+            "tipo_principal": "2/3",
+            "tipo_secundario": "1",
+            "custo": "40"
+        },
+        {
+            "nome_pt_br": "Lacrado",
+            "nome_en_us": "Sealed",
+            "pag_pt_br": "68",
+            "pag_en_us": "82",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Lamentável",
+            "nome_en_us": "Pitiable",
+            "pag_pt_br": "22",
+            "pag_en_us": "22",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Leitura da Mente",
+            "nome_en_us": "Mind Reading",
+            "pag_pt_br": "68",
+            "pag_en_us": "69",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "30"
+        },
+        {
+            "nome_pt_br": "Língua Ferina",
+            "nome_en_us": "Rapier Wit",
+            "pag_pt_br": "68",
+            "pag_en_us": "79",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Longevidade",
+            "nome_en_us": "Longevity",
+            "pag_pt_br": "69",
+            "pag_en_us": "66",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "2"
+        },
+        {
+            "nome_pt_br": "Matemático Intuitivo",
+            "nome_en_us": "Intuitive Mathematician",
+            "pag_pt_br": "46",
+            "pag_en_us": "66",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Médium",
+            "nome_en_us": "Medium",
+            "pag_pt_br": "69",
+            "pag_en_us": "68",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Membrana Nictitante",
+            "nome_en_us": "Nictitating Membrane",
+            "pag_pt_br": "69",
+            "pag_en_us": "71",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "1/nível"
+        },
+        {
+            "nome_pt_br": "Memória Eidética",
+            "nome_en_us": "Eidetic Memory",
+            "pag_pt_br": "69",
+            "pag_en_us": "51",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Memória Fotográfica",
+            "nome_en_us": "Photographic Memory",
+            "pag_pt_br": "69",
+            "pag_en_us": "51",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Memória Racial",
+            "nome_en_us": "Racial Memory",
+            "pag_pt_br": "69",
+            "pag_en_us": "78",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "15 ou 40"
+        },
+        {
+            "nome_pt_br": "Mente Digital",
+            "nome_en_us": "Digital Mind",
+            "pag_pt_br": "69",
+            "pag_en_us": "48",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Mente Segmentada",
+            "nome_en_us": "Compartmentalized Mind",
+            "pag_pt_br": "70",
+            "pag_en_us": "43",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "50/nível"
+        },
+        {
+            "nome_pt_br": "Mestre de Armas",
+            "nome_en_us": "Weapon Master",
+            "pag_pt_br": "70",
+            "pag_en_us": "99",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Metabolismo Impoluto",
+            "nome_en_us": "Sanitized Metabolism",
+            "pag_pt_br": "101",
+            "pag_en_us": "101",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "1"
+        },
+        {
+            "nome_pt_br": "Metamorfose",
+            "nome_en_us": "Shapeshifting",
+            "pag_pt_br": "70",
+            "pag_en_us": "83",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Mordida de Vampiro",
+            "nome_en_us": "Vampiric Bite",
+            "pag_pt_br": "72",
+            "pag_en_us": "96",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "30 + 5/nível"
+        },
+        {
+            "nome_pt_br": "Morfose",
+            "nome_en_us": "Morph",
+            "pag_pt_br": "72",
+            "pag_en_us": "84",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Não Come nem Bebe",
+            "nome_en_us": "Doesn't Eat or Drink",
+            "pag_pt_br": "72",
+            "pag_en_us": "50",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Não Dorme",
+            "nome_en_us": "Doesn't Sleep",
+            "pag_pt_br": "72",
+            "pag_en_us": "50",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "20"
+        },
+        {
+            "nome_pt_br": "Não Respira",
+            "nome_en_us": "Doesn't Breathe",
+            "pag_pt_br": "73",
+            "pag_en_us": "49",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "20"
+        },
+        {
+            "nome_pt_br": "Neutralizar",
+            "nome_en_us": "Neutralize",
+            "pag_pt_br": "73",
+            "pag_en_us": "71",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "50"
+        },
+        {
+            "nome_pt_br": "Noção do Perigo",
+            "nome_en_us": "Danger Sense",
+            "pag_pt_br": "73",
+            "pag_en_us": "47",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Noção do Tempo Ampliada",
+            "nome_en_us": "Enhanced Time Sense",
+            "pag_pt_br": "73",
+            "pag_en_us": "52",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "45"
+        },
+        {
+            "nome_pt_br": "Noção Exata do Tempo",
+            "nome_en_us": "Absolute Timing",
+            "pag_pt_br": "74",
+            "pag_en_us": "35",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "2"
+        },
+        {
+            "nome_pt_br": "Noção Tridim. do Espaço",
+            "nome_en_us": "3D Spatial Sense",
+            "pag_pt_br": "87",
+            "pag_en_us": "34",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "NT Alto",
+            "nome_en_us": "High TL",
+            "pag_pt_br": "23",
+            "pag_en_us": "23",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Obscurecer",
+            "nome_en_us": "Obscure",
+            "pag_pt_br": "74",
+            "pag_en_us": "72",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Obstinado",
+            "nome_en_us": "Single-Minded",
+            "pag_pt_br": "74",
+            "pag_en_us": "85",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Olfato Discriminatório",
+            "nome_en_us": "Discriminatory Smell",
+            "pag_pt_br": "74",
+            "pag_en_us": "49",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Oráculo",
+            "nome_en_us": "Oracle",
+            "pag_pt_br": "74",
+            "pag_en_us": "72",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Ótima Forma",
+            "nome_en_us": "Very Fit",
+            "pag_pt_br": "45",
+            "pag_en_us": "55",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Padrão de Tempo Alterado",
+            "nome_en_us": "Altered Time Rate",
+            "pag_pt_br": "75",
+            "pag_en_us": "38",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "100/nível"
+        },
+        {
+            "nome_pt_br": "Paladar Discriminatório",
+            "nome_en_us": "Discriminatory Taste",
+            "pag_pt_br": "75",
+            "pag_en_us": "49",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Paladar/Olfato Apurado",
+            "nome_en_us": "Acute Taste and Smell",
+            "pag_pt_br": "88",
+            "pag_en_us": "35",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Patronos",
+            "nome_en_us": "Patrons",
+            "pag_pt_br": "75",
+            "pag_en_us": "72",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Pelagem",
+            "nome_en_us": "Fur",
+            "pag_pt_br": "101",
+            "pag_en_us": "101",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "1"
+        },
+        {
+            "nome_pt_br": "Pele Elástica",
+            "nome_en_us": "Elastic Skin",
+            "pag_pt_br": "77",
+            "pag_en_us": "51",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "20"
+        },
+        {
+            "nome_pt_br": "Pendulear",
+            "nome_en_us": "Brachiator",
+            "pag_pt_br": "77",
+            "pag_en_us": "41",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Permissão de Segurança",
+            "nome_en_us": "Security Clearance",
+            "pag_pt_br": "77",
+            "pag_en_us": "82",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Pernas Adicionais",
+            "nome_en_us": "Extra Legs",
+            "pag_pt_br": "77",
+            "pag_en_us": "54",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Perspicácia Comercial",
+            "nome_en_us": "Business Acumen",
+            "pag_pt_br": "91",
+            "pag_en_us": "90",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "10/nível"
+        },
+        {
+            "nome_pt_br": "Poderes Legais",
+            "nome_en_us": "Legal Enforcement Powers",
+            "pag_pt_br": "78",
+            "pag_en_us": "65",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5, 10, ou 15"
+        },
+        {
+            "nome_pt_br": "Por Dentro da Moda",
+            "nome_en_us": "Fashion Sense",
+            "pag_pt_br": "21",
+            "pag_en_us": "21",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Possessão",
+            "nome_en_us": "Possession",
+            "pag_pt_br": "78",
+            "pag_en_us": "75",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "100"
+        },
+        {
+            "nome_pt_br": "Pouco Sono",
+            "nome_en_us": "Less Sleep",
+            "pag_pt_br": "80",
+            "pag_en_us": "65",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Precognição",
+            "nome_en_us": "Precognition",
+            "pag_pt_br": "80",
+            "pag_en_us": "77",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "25"
+        },
+        {
+            "nome_pt_br": "Prender a Respiração",
+            "nome_en_us": "Breath-Holding",
+            "pag_pt_br": "80",
+            "pag_en_us": "41",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Propósito Maior",
+            "nome_en_us": "Higher Purpose",
+            "pag_pt_br": "80",
+            "pag_en_us": "59",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Psicometria",
+            "nome_en_us": "Psychometry",
+            "pag_pt_br": "81",
+            "pag_en_us": "78",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "20"
+        },
+        {
+            "nome_pt_br": "Pulmões com Filtro",
+            "nome_en_us": "Filter Lungs",
+            "pag_pt_br": "81",
+            "pag_en_us": "55",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Queda de Gato",
+            "nome_en_us": "Catfall",
+            "pag_pt_br": "81",
+            "pag_en_us": "41",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Rastreamento Ampliado",
+            "nome_en_us": "Enhanced Tracking",
+            "pag_pt_br": "81",
+            "pag_en_us": "53",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Reconhecimento Social",
+            "nome_en_us": "Social Regard",
+            "pag_pt_br": "81",
+            "pag_en_us": "86",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Recuperação Acelerada",
+            "nome_en_us": "Rapid Healing",
+            "pag_pt_br": "82",
+            "pag_en_us": "79",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Recuperação da Consciência",
+            "nome_en_us": "Recovery",
+            "pag_pt_br": "82",
+            "pag_en_us": "80",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Recuperação Muita Acelerada",
+            "nome_en_us": "Very Rapid Healing",
+            "pag_pt_br": "82",
+            "pag_en_us": "79",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Redespertar",
+            "nome_en_us": "Reawakened",
+            "pag_pt_br": "82",
+            "pag_en_us": "80",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Reflexos em Combate",
+            "nome_en_us": "Combat Reflexes",
+            "pag_pt_br": "82",
+            "pag_en_us": "43",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Regeneração",
+            "nome_en_us": "Regeneration",
+            "pag_pt_br": "82",
+            "pag_en_us": "80",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Reivindicar Hospitalidade",
+            "nome_en_us": "Claim to Hospitality",
+            "pag_pt_br": "82",
+            "pag_en_us": "41",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "1 a 10"
+        },
+        {
+            "nome_pt_br": "Renda Própria",
+            "nome_en_us": "Independent Income",
+            "pag_pt_br": "26",
+            "pag_en_us": "26",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "1/nível"
+        },
+        {
+            "nome_pt_br": "Reputação",
+            "nome_en_us": "Reputation",
+            "pag_pt_br": "26",
+            "pag_en_us": "26",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Resistência a Dano",
+            "nome_en_us": "Damage Resistance",
+            "pag_pt_br": "83",
+            "pag_en_us": "46",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Resistência à Pressão",
+            "nome_en_us": "Pressure Support",
+            "pag_pt_br": "84",
+            "pag_en_us": "77",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5 a 15"
+        },
+        {
+            "nome_pt_br": "Resistência ao Vácuo",
+            "nome_en_us": "Vacuum Support",
+            "pag_pt_br": "84",
+            "pag_en_us": "96",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Resistente",
+            "nome_en_us": "Resistant",
+            "pag_pt_br": "84",
+            "pag_en_us": "80",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Restaurar Membros",
+            "nome_en_us": "Regrowth",
+            "pag_pt_br": "85",
+            "pag_en_us": "80",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "40"
+        },
+        {
+            "nome_pt_br": "Retenção",
+            "nome_en_us": "Binding",
+            "pag_pt_br": "85",
+            "pag_en_us": "40",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Riqueza",
+            "nome_en_us": "Wealth",
+            "pag_pt_br": "25",
+            "pag_en_us": "25",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Rosto Sincero",
+            "nome_en_us": "Honest Face",
+            "pag_pt_br": "101",
+            "pag_en_us": "101",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "1"
+        },
+        {
+            "nome_pt_br": "Saltador",
+            "nome_en_us": "Jumper",
+            "pag_pt_br": "86",
+            "pag_en_us": "64",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "100"
+        },
+        {
+            "nome_pt_br": "Sem Ressaca",
+            "nome_en_us": "No Hangover",
+            "pag_pt_br": "101",
+            "pag_en_us": "101",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "1"
+        },
+        {
+            "nome_pt_br": "Sensível",
+            "nome_en_us": "Sensitive",
+            "pag_pt_br": "57",
+            "pag_en_us": "51",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Senso de Direção",
+            "nome_en_us": "Absolute Direction",
+            "pag_pt_br": "87",
+            "pag_en_us": "34",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Sentido de Monitoramento",
+            "nome_en_us": "Scanning Sense",
+            "pag_pt_br": "87",
+            "pag_en_us": "81",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Sentido de Vibração",
+            "nome_en_us": "Vibration Sense",
+            "pag_pt_br": "88",
+            "pag_en_us": "96",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Sentido Protegido",
+            "nome_en_us": "Protected Sense",
+            "pag_pt_br": "88",
+            "pag_en_us": "78",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5/sentido"
+        },
+        {
+            "nome_pt_br": "Serendipidade",
+            "nome_en_us": "Serendipity",
+            "pag_pt_br": "88",
+            "pag_en_us": "83",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "15/nível"
+        },
+        {
+            "nome_pt_br": "Silêncio",
+            "nome_en_us": "Silence",
+            "pag_pt_br": "89",
+            "pag_en_us": "85",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Sonda Mental",
+            "nome_en_us": "Mind Probe",
+            "pag_pt_br": "89",
+            "pag_en_us": "69",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "20"
+        },
+        {
+            "nome_pt_br": "Sorte",
+            "nome_en_us": "Luck",
+            "pag_pt_br": "89",
+            "pag_en_us": "66",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "ST Braçal",
+            "nome_en_us": "Arm ST",
+            "pag_pt_br": "89",
+            "pag_en_us": "40",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "3, 5, ou 8/nível"
+        },
+        {
+            "nome_pt_br": "ST de Golpe",
+            "nome_en_us": "Striking ST",
+            "pag_pt_br": "89",
+            "pag_en_us": "88",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "ST de Levantamento",
+            "nome_en_us": "Lifting ST",
+            "pag_pt_br": "89",
+            "pag_en_us": "65",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "3/nível"
+        },
+        {
+            "nome_pt_br": "Status",
+            "nome_en_us": "Status",
+            "pag_pt_br": "28",
+            "pag_en_us": "28",
+            "tipo_principal": "4",
+            "tipo_secundario": "-",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Super Escalada",
+            "nome_en_us": "Super Climbing",
+            "pag_pt_br": "90",
+            "pag_en_us": "89",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "3/nível"
+        },
+        {
+            "nome_pt_br": "Super Salto",
+            "nome_en_us": "Super Jump",
+            "pag_pt_br": "90",
+            "pag_en_us": "89",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "10/nível"
+        },
+        {
+            "nome_pt_br": "Super Sorte",
+            "nome_en_us": "Super Luck",
+            "pag_pt_br": "90",
+            "pag_en_us": "89",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "100"
+        },
+        {
+            "nome_pt_br": "Superaudição",
+            "nome_en_us": "Ultrahearing",
+            "pag_pt_br": "90",
+            "pag_en_us": "94",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "0 ou 5"
+        },
+        {
+            "nome_pt_br": "Talento",
+            "nome_en_us": "Talent",
+            "pag_pt_br": "90",
+            "pag_en_us": "89",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Talento Instintivo",
+            "nome_en_us": "Wild Talent",
+            "pag_pt_br": "91",
+            "pag_en_us": "99",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "20/nível"
+        },
+        {
+            "nome_pt_br": "Tato Apurado",
+            "nome_en_us": "Acute Touch",
+            "pag_pt_br": "88",
+            "pag_en_us": "35",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Telecinese",
+            "nome_en_us": "Telekinesis",
+            "pag_pt_br": "92",
+            "pag_en_us": "92",
+            "tipo_principal": "2/3",
+            "tipo_secundario": "1",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Telecomunicação",
+            "nome_en_us": "Telecommunication",
+            "pag_pt_br": "93",
+            "pag_en_us": "91",
+            "tipo_principal": "2/3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Terror",
+            "nome_en_us": "Terror",
+            "pag_pt_br": "94",
+            "pag_en_us": "93",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "30 + 10/nível"
+        },
+        {
+            "nome_pt_br": "Títere",
+            "nome_en_us": "Puppet",
+            "pag_pt_br": "94",
+            "pag_en_us": "78",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "5 a 10"
+        },
+        {
+            "nome_pt_br": "Tolerância a Ferimentos",
+            "nome_en_us": "Injury Tolerance",
+            "pag_pt_br": "94",
+            "pag_en_us": "60",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Tolerância à Radiação",
+            "nome_en_us": "Radiation Tolerance",
+            "pag_pt_br": "95",
+            "pag_en_us": "79",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "Variável"
+        },
+        {
+            "nome_pt_br": "Tolerância à Temperatura",
+            "nome_en_us": "Temperature Tolerance",
+            "pag_pt_br": "95",
+            "pag_en_us": "93",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "1/nível"
+        },
+        {
+            "nome_pt_br": "Tolerância ao Álcool",
+            "nome_en_us": "Alcohol Tolerance",
+            "pag_pt_br": "101",
+            "pag_en_us": "100",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "1"
+        },
+        {
+            "nome_pt_br": "Tolerância-G Ampliada",
+            "nome_en_us": "Improved G-Tolerance",
+            "pag_pt_br": "95",
+            "pag_en_us": "60",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "5 a 25"
+        },
+        {
+            "nome_pt_br": "Toque Sensível",
+            "nome_en_us": "Sensitive Touch",
+            "pag_pt_br": "96",
+            "pag_en_us": "83",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Treinado por um Mestre",
+            "nome_en_us": "Trained By A Master",
+            "pag_pt_br": "96",
+            "pag_en_us": "93",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "30"
+        },
+        {
+            "nome_pt_br": "Ultraflexibilidade das Juntas",
+            "nome_en_us": "Double-Jointed",
+            "pag_pt_br": "61",
+            "pag_en_us": "56",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Ultravisão",
+            "nome_en_us": "Ultravision",
+            "pag_pt_br": "96",
+            "pag_en_us": "94",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "0 a 10"
+        },
+        {
+            "nome_pt_br": "Venturoso",
+            "nome_en_us": "Daredevil",
+            "pag_pt_br": "96",
+            "pag_en_us": "47",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Ver o Invisível",
+            "nome_en_us": "See Invisible",
+            "pag_pt_br": "96",
+            "pag_en_us": "83",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Versátil",
+            "nome_en_us": "Versatile",
+            "pag_pt_br": "96",
+            "pag_en_us": "96",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Vida Extra",
+            "nome_en_us": "Extra Life",
+            "pag_pt_br": "96",
+            "pag_en_us": "55",
+            "tipo_principal": "2",
+            "tipo_secundario": "1",
+            "custo": "25/vida"
+        },
+        {
+            "nome_pt_br": "Vínculo Especial",
+            "nome_en_us": "Special Rapport",
+            "pag_pt_br": "97",
+            "pag_en_us": "88",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "5"
+        },
+        {
+            "nome_pt_br": "Visão 360 Graus",
+            "nome_en_us": "360° Vision",
+            "pag_pt_br": "97",
+            "pag_en_us": "34",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "25"
+        },
+        {
+            "nome_pt_br": "Visão Aguçada",
+            "nome_en_us": "Acute Vision",
+            "pag_pt_br": "88",
+            "pag_en_us": "35",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "2/nível"
+        },
+        {
+            "nome_pt_br": "Visão Hiperespectral",
+            "nome_en_us": "Hyperspectral Vision",
+            "pag_pt_br": "97",
+            "pag_en_us": "60",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "25"
+        },
+        {
+            "nome_pt_br": "Visão Microscópica",
+            "nome_en_us": "Microscopic Vision",
+            "pag_pt_br": "97",
+            "pag_en_us": "68",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Visão no Escuro",
+            "nome_en_us": "Dark Vision",
+            "pag_pt_br": "97",
+            "pag_en_us": "47",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "25"
+        },
+        {
+            "nome_pt_br": "Visão Noturna",
+            "nome_en_us": "Night Vision",
+            "pag_pt_br": "97",
+            "pag_en_us": "71",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "1/nível"
+        },
+        {
+            "nome_pt_br": "Visão Penetrante",
+            "nome_en_us": "Penetrating Vision",
+            "pag_pt_br": "97",
+            "pag_en_us": "74",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "10/nível"
+        },
+        {
+            "nome_pt_br": "Visão Periférica",
+            "nome_en_us": "Peripheral Vision",
+            "pag_pt_br": "98",
+            "pag_en_us": "74",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "15"
+        },
+        {
+            "nome_pt_br": "Visão Telescópica",
+            "nome_en_us": "Telescopic Vision",
+            "pag_pt_br": "98",
+            "pag_en_us": "92",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "5/nível"
+        },
+        {
+            "nome_pt_br": "Visualização",
+            "nome_en_us": "Visualization",
+            "pag_pt_br": "98",
+            "pag_en_us": "96",
+            "tipo_principal": "2",
+            "tipo_secundario": "5",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Voo",
+            "nome_en_us": "Flight",
+            "pag_pt_br": "98",
+            "pag_en_us": "56",
+            "tipo_principal": "3",
+            "tipo_secundario": "1",
+            "custo": "40"
+        },
+        {
+            "nome_pt_br": "Voz Melodiosa",
+            "nome_en_us": "Voice",
+            "pag_pt_br": "100",
+            "pag_en_us": "97",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "10"
+        },
+        {
+            "nome_pt_br": "Voz Penetrante",
+            "nome_en_us": "Penetrating Voice",
+            "pag_pt_br": "101",
+            "pag_en_us": "101",
+            "tipo_principal": "3",
+            "tipo_secundario": "-",
+            "custo": "1"
+        },
+        {
+            "nome_pt_br": "Xeno-adaptabilidade",
+            "nome_en_us": "Xeno-Adaptability",
+            "pag_pt_br": "35",
+            "pag_en_us": "46",
+            "tipo_principal": "2",
+            "tipo_secundario": "-",
+            "custo": "20"
+        }
+    ]
+}
